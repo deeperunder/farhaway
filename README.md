@@ -1,5 +1,5 @@
 - 👋 Hi, I’m farhanah, or call me fani
-- 👀 I’m interested in digital rights, culture, security, feminist internet, poetry
+- 👀 I’m working and interested in digital rights, culture, security, feminist internet, poetry
 - 🌱 I’m currently learning to use git more and archieve more just to not be sunk
 - 💞️ I’m looking to collaborate on documentation, research, poetry
 - 📫 How to reach me on Wire: @sputniksweetheart or email: fanifanifani@protonmail.com
